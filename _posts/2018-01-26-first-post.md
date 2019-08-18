@@ -1,14 +1,7 @@
 ---
 title: "Kickstart_2019_RoundD_X or What?"
-categories:
-  - Edge Case
-tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
-last_modified_at: 2017-03-09T14:25:52-05:00
+date: 2017-10-20 08:26:28 -0400
+categories: jekyll update
 ---
 
 
