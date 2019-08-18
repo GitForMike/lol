@@ -38,11 +38,11 @@ e94ea30 on 16 Feb 2018
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
+title: Study
 email:
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://postgauss.github.io/"
 author:
   name:
   twitter:
