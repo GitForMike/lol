@@ -1,27 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@PostGauss 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
- 
-445
-13
-347 487 mmistakes/jekyll-theme-basically-basic
- Code  Issues 2  Pull requests 0  Projects 0  Security  Insights
-jekyll-theme-basically-basic/_config.yml
-@mmistakes mmistakes Add support for Lunr and Algolia search (#48)
-e94ea30 on 16 Feb 2018
-@mmistakes @ryzokuken
-86 lines (80 sloc)  2.24 KB
-    
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -38,11 +14,11 @@ e94ea30 on 16 Feb 2018
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Study
+title: My Awesome Site
 email:
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: "https://postgauss.github.io/"
+url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name:
   twitter:
@@ -107,15 +83,3 @@ defaults:
     values:
       layout: post
       read_time: true
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
