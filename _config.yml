@@ -38,6 +38,7 @@ algolia:
   powered_by: false # true (default), false
 disqus:
   shortname: postgauss
+google_analytics: UA-145943664-1
 
 # Build settings
 markdown: kramdown
