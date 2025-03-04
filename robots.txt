@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://gitformike.github.io/lol
-
-# Sitemaps
-Sitemap: https://gitformike.github.io/lol/sitemap.xml
